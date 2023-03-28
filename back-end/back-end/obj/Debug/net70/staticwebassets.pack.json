@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\actores\\1437a373-42a5-4295-9d99-0cdef2858d8f.jpg",
+      "PackagePath": "staticwebassets\\actores\\1437a373-42a5-4295-9d99-0cdef2858d8f.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\actores\\4ed5c020-9f0b-4650-be24-7d956a5d1173.jpg",
+      "PackagePath": "staticwebassets\\actores\\4ed5c020-9f0b-4650-be24-7d956a5d1173.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\actores\\8a3579e5-d317-4432-b732-7a5a2c337b12.jpg",
+      "PackagePath": "staticwebassets\\actores\\8a3579e5-d317-4432-b732-7a5a2c337b12.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\actores\\96a1b50a-7d78-4446-bfd8-786a6f3e7ce1.png",
+      "PackagePath": "staticwebassets\\actores\\96a1b50a-7d78-4446-bfd8-786a6f3e7ce1.png"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\actores\\dd97b7fa-c12d-4126-a5ac-a3a4b1ebb5dd.jpg",
+      "PackagePath": "staticwebassets\\actores\\dd97b7fa-c12d-4126-a5ac-a3a4b1ebb5dd.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\peliculas\\256e5f21-f8a0-49e9-be02-d961c57f1fca.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\256e5f21-f8a0-49e9-be02-d961c57f1fca.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\peliculas\\7c86b8d1-358a-4c36-ad8c-6bee317c55be.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\7c86b8d1-358a-4c36-ad8c-6bee317c55be.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\peliculas\\8bbc03f6-bd11-49af-a83b-af4e6296567b.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\8bbc03f6-bd11-49af-a83b-af4e6296567b.jpg"
+    },
+    {
+      "Id": "C:\\Fuentes\\David\\AngularPeliculas\\back-end\\back-end\\wwwroot\\peliculas\\d9731424-afb3-4c73-a36c-802c2da5111e.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\d9731424-afb3-4c73-a36c-802c2da5111e.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net70\\staticwebassets\\msbuild.back-end.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net70\\staticwebassets\\msbuild.build.back-end.props",
+      "PackagePath": "build\\back-end.props"
+    },
+    {
+      "Id": "obj\\Debug\\net70\\staticwebassets\\msbuild.buildMultiTargeting.back-end.props",
+      "PackagePath": "buildMultiTargeting\\back-end.props"
+    },
+    {
+      "Id": "obj\\Debug\\net70\\staticwebassets\\msbuild.buildTransitive.back-end.props",
+      "PackagePath": "buildTransitive\\back-end.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
