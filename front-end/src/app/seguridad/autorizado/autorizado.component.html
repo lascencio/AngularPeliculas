@@ -1,0 +1,2 @@
+<ng-content select="[noAutorizado]" *ngIf="!estaAutorizado()"></ng-content>
+<ng-content select="[autorizado]" *ngIf="estaAutorizado()"></ng-content>
